@@ -6,7 +6,7 @@ ADD . /intro-devops-demo
 
 WORKDIR /intro-devops-demo
 
-RUN npm install -g
+RUN npm install
 
 EXPOSE 4200
 
